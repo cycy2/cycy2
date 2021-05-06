@@ -1,0 +1,5 @@
+- 👋 Olá, sou Ana Cecília
+- 👀  Estou interessada em  desenvolvimento de jogos 
+- 🌱  Estou aprendendo  front end
+- 💞️ Estou procurando colaborar em desenvolvimento de jogos
+- 📫  Contato: anaceciliaup@gmail.com
